@@ -1,67 +1,86 @@
 <p align="center">
-  <img src="assets/berserk.jpg" alt="Berserk Eclipse" width="100%" />
+  <img src="assets/berserk.jpg" alt="Berserk Eclipse Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=8B0000&center=true&vCenter=true&width=650&lines=FORGED+IN+THE+SHADOWS...;MARKED+BY+THE+BRAND+OF+SACRIFICE.+%F0%9F%A9%B8;THE+BLACK+SWORDSMAN+OF+CODE.+%E2%9A%94%FE%8F;STRUGGLE.+CONTEND.+BUILD." alt="Berserk Gothic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=SAHIL+CHOUDHARY+%E2%9A%94%FE%8F;AI+%26+AUTONOMOUS+AGENT+ENGINEER;LANGCHAIN+%2B+MULTI-AGENT+ORCHESTRATION;SQL+(MYSQL)+%2B+DISTRIBUTED+SYSTEMS;STRUGGLE.+CONTEND.+BUILD." alt="Berserk Gothic Header" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-STRUGGLER-8B0000?style=for-the-badge&logoColor=white" alt="Status: Struggler" />
+  <a href="https://www.linkedin.com/in/sahil-choudhary-566610287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Sahil_rocX7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:sahilch.at.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/_sahil._.roxx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/5AIhil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
   <i>"In this world, is the destiny of mankind controlled by some transcendental entity or law? Like the hand of God hovering above? At least it is true that man has no control, even over his own will."</i>
 </p>
 
----
+<p align="center">
+  <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
+</p>
 
 ### 🩸 The Origin Story
 
 > *Born from darkness, tempered by endless trials, and marked to fight against impossible odds.*
 
-I am **5AIhil**, a vigilante developer wandering through the realm of code. Like a lone swordsman wielding a weapon too heavy to be called a sword, I carve through complex software problems, ruthless bugs, and raw data.
-
-Driven by an unyielding spirit to create, I build intelligent systems and high-caliber digital experiences in the dead of night. Marked by relentless curiosity, I do not yield to broken builds or daunting architectures—I **struggle, contend, and build.**
-
-<br>
+I am **Sahil Choudhary**, an AI & Autonomous Systems Developer at **IIT (ISM) Dhanbad**. Like a lone swordsman wielding a weapon too heavy to be called a sword, I carve through complex software problems, multi-agent frameworks, large-scale data pipelines, and deep learning architectures.
 
 <p align="center">
-  <img src="assets/wallpaperflare.com_wallpaper (2).jpg" alt="Guts Dark Souls Aesthetic" width="100%" />
+  <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
 </p>
-
----
 
 ### ⚔️ The Arsenal (Tech Stack)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+#### 🤖 AI, Machine Learning & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/AutoGen-00589C?style=for-the-badge&logo=autogen&logoColor=white" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" alt="Model Context Protocol" />
 </p>
 
----
-
-### 🗡️ Active Quests (Current Endeavors)
-
-- 🩸 **Forging AI Artifacts**: Architecting autonomous agents and deep learning models powered by PyTorch, TensorFlow & Python.
-- ⚡ **Constructing Web Systems**: Crafting blood-fast, resilient web applications using React & scalable cloud backends.
-- ⛓️ **Containerizing Environments**: Hardening deployment pipelines with Docker & AWS infrastructure.
-- 🌌 **Conquering New Frontiers**: Pushing the boundaries of Artificial Intelligence, neural networks, and system design.
-
-<br>
-
-<p align="center">
-  <img src="assets/thumb-1920-1315631.png" alt="Guts In Snow" width="100%" />
+#### 💻 Programming Languages & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL (MySQL)" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
----
+#### 🌐 Web, Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+</p>
+
+<br />
 
 <p align="center">
-  <sub>"He who fights with monsters should see to it that he himself does not become a monster."</sub><br>
-  <b>⚔️ Struggle on, fellow developer. ⚔️</b>
+  <img src="assets/wallpaperflare.com_wallpaper (1).jpg" alt="Berserk Wallpaper" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
+</p>
+
+<p align="center">
+  <b>⚔️ Struggle. Contend. Build. ⚔️</b>
 </p>
