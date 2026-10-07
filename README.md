@@ -32,20 +32,24 @@
   <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
 </p>
 
-### 🩸 The Origin Story
+<h3 align="center">🩸 The Origin Story</h3>
 
-> *Born from darkness, tempered by endless trials, and marked to fight against impossible odds.*
+<p align="center">
+  <i>Born from darkness, tempered by endless trials, and marked to fight against impossible odds.</i>
+</p>
 
-I am **Sahil Choudhary**, an AI & Autonomous Systems Developer at **IIT (ISM) Dhanbad**. Like a lone swordsman wielding a weapon too heavy to be called a sword, I carve through complex software problems, multi-agent frameworks, large-scale data pipelines, and deep learning architectures.
+<p align="center">
+  I am <b>Sahil Choudhary</b>, an AI & Autonomous Systems Developer at <b>IIT (ISM) Dhanbad</b>. Like a lone swordsman wielding a weapon too heavy to be called a sword, I carve through complex software problems, multi-agent frameworks, large-scale data pipelines, and deep learning architectures.
+</p>
 
 <p align="center">
   <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
 </p>
 
-### ⚔️ The Arsenal (Tech Stack)
+<h3 align="center">⚔️ The Arsenal (Tech Stack)</h3>
 
-#### 🤖 AI, Machine Learning & Frameworks
-<p align="left">
+<h4 align="center">🤖 AI, Machine Learning & Frameworks</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -54,16 +58,16 @@ I am **Sahil Choudhary**, an AI & Autonomous Systems Developer at **IIT (ISM) Dh
   <img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" alt="Model Context Protocol" />
 </p>
 
-#### 💻 Programming Languages & Databases
-<p align="left">
+<h4 align="center">💻 Programming Languages & Databases</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL (MySQL)" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-#### 🌐 Web, Cloud & Infrastructure
-<p align="left">
+<h4 align="center">🌐 Web, Cloud & Infrastructure</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
