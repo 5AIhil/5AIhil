@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=SAHIL+CHOUDHARY+%E2%9A%94%FE%8F;AI+%26+AUTONOMOUS+AGENT+ENGINEER;LANGCHAIN+%2B+MULTI-AGENT+ORCHESTRATION;SQL+(MYSQL)+%2B+DISTRIBUTED+SYSTEMS;STRUGGLE.+CONTEND.+BUILD." alt="Berserk Gothic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=SAHIL+CHOUDHARY;AI+%26+AUTONOMOUS+AGENT+ENGINEER;LANGCHAIN+%2B+MULTI-AGENT+ORCHESTRATION;SQL+(MYSQL)+%2B+DISTRIBUTED+SYSTEMS;STRUGGLE.+CONTEND.+BUILD." alt="Berserk Gothic Header" />
 </h1>
 
 <p align="center">
