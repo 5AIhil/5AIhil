@@ -77,9 +77,6 @@
 
 <br />
 
-<p align="center">
-  <img src="assets/wallpaperflare.com_wallpaper (1).jpg" alt="Berserk Wallpaper" width="100%" />
-</p>
 
 <p align="center">
   <img src="assets/dotted_pattern.svg" alt="Dotted Pattern Divider" width="100%" />
